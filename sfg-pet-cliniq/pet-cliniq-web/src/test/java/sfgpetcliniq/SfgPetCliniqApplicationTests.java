@@ -1,4 +1,4 @@
-package com.ambiyo.sfgpetcliniq;
+package sfgpetcliniq;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
