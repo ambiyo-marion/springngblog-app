@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.ambiyo</groupId>
 	<artifactId>sfg-pet-cliniq</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>sfg-pet-cliniq</name>
 	<description>pet clinic with spring framework</description>
 
@@ -44,7 +44,7 @@
 		<connection>scm:https://github.com/ambiyo-marion/sfg-pet-cliniq.git</connection>
 		<url>https://github.com/ambiyo-marion/sfg-pet-cliniq.git</url>
 		<developerConnection>scm:git:https://github.com/ambiyo-marion/sfg-pet-cliniq.git</developerConnection>
-	  <tag>sfg-pet-cliniq-0.0.1</tag>
+	  <tag>sfg-pet-cliniq-0.0.2</tag>
   </scm>
 
 </project>
