@@ -61,4 +61,8 @@
             </plugins>
         </pluginManagement>
     </build>
+
+  <scm>
+    <tag>sfg-pet-cliniq-0.0.1</tag>
+  </scm>
 </project>
