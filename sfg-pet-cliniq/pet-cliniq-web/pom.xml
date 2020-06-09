@@ -3,7 +3,7 @@
     <parent>
         <artifactId>sfg-pet-cliniq</artifactId>
         <groupId>com.ambiyo</groupId>
-        <version>0.0.2</version>
+        <version>0.0.3-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -12,7 +12,7 @@
         <dependency>
             <artifactId>pet-cliniq-data</artifactId>
             <groupId>com.ambiyo</groupId>
-            <version>0.0.2</version>
+            <version>0.0.3-SNAPSHOT</version>
         </dependency>
     <dependency>
         <groupId>org.springframework.boot</groupId>
@@ -50,6 +50,6 @@
 
 
   <scm>
-    <tag>sfg-pet-cliniq-0.0.2</tag>
+    <tag>sfg-pet-cliniq-0.0.1</tag>
   </scm>
 </project>
