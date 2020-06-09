@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.ambiyo</groupId>
 	<artifactId>sfg-pet-cliniq</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>sfg-pet-cliniq</name>
 	<description>pet clinic with spring framework</description>
 
